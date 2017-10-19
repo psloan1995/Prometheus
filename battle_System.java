@@ -279,7 +279,7 @@ import java.util.Random;
 				  * you gain 40 health points. If you have between 20 and 30, you gain 50, and finally if you have greater than 40, 
 				  * you gain 30 health points. */
 				 
-				 System.out.println("A Bonus of Health Points Has Been Added.\n ");
+				 System.out.println("You have earned boost points towards your health.\n ");
 				 
 				 if(health > 30 && health <= 40){
 					 boostOrc();
