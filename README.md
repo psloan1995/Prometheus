@@ -3,7 +3,7 @@
 ## Intro
 This text-based game programmed in Java assumes a character to experience 3 kinds of activities
 
-* **Story** is the activity where the player is first displayed with an interactive story introduction, followed by one or more battles. The battles outcomes depend on the strength (health) of the character, his/her ammonition (weapon + armor) and a number of randomized factors. Same is applicable to enimies. Completing the story as a winner is associated with monetary reward. Loosing in at most one battle is the **game over** condition.
+* **Story** is the activity where the player is first displayed with an interactive story introduction, followed by one or more battles. The battles outcomes depend on the strength (health) of the character, his/her ammunition (weapon + armor) and a number of randomized factors. Same is applicable to enimies. Completing the story as a winner is associated with monetary reward. Loosing in at most one battle is the **game over** condition.
 
 * **Tournament** is where the character can **gamble** to *boost* or *loose* previously gained money. The tournament has a number of **levels of hardness** where opponents of matching skill levels will gamble with the character. The outcome of every round is randomized. The character can leave the tournament at any time, but will not be able to return to the same level there after, s/he will have to start from the very beginning. From this perspective the biggest difference in levels is the associated reward. The lower the level the smaller reward (loss). The character will not be allowed to gamble on the particular level shoud s/he has not enough money to match the possible reward / loss. 
 
